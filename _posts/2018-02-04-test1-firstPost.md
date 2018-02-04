@@ -17,3 +17,8 @@ Time: 2018-02-04 18:30:29
 [Udemy - artificial intelligence A-Z](https://www.udemy.com/home/my-courses/learning/)
 
 Coursera - Ng (and landing.ai) machine learning courses
+
+
+
+---
+You can reach me at zfq212@yahoo.com
