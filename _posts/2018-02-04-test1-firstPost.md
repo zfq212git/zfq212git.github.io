@@ -3,7 +3,7 @@ title: My first Post
 Time: 2018-02-04 18:30:29
 ---
 
-## This is my first post!!!
+## start with a new start!
 
 ---
 ## Interesdting data and python learning
@@ -14,6 +14,6 @@ Time: 2018-02-04 18:30:29
 ---
 ## Good AI and machine learning 
 
-[artificial intelligence A-Z](https://www.udemy.com/home/my-courses/learning/)
+[Udemy - artificial intelligence A-Z](https://www.udemy.com/home/my-courses/learning/)
 
 Coursera - Ng (and landing.ai) machine learning courses
