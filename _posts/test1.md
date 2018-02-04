@@ -1,3 +1,9 @@
+---
+layout: post
+title: My first Post
+---
+
+
 # Scribble
 
 A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-jekyll-theme).
