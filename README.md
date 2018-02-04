@@ -1,6 +1,7 @@
 
-
-======================
+---
+=========================
+---
 The below readme is from the original ReadMe when I copied this blog template and modified it for my use.  My own ReadMe will be wrods above.
 ---
 # Scribble
