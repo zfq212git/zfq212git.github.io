@@ -10,7 +10,6 @@ Time: 2018-02-04 18:30:29
 
 [莫烦Python](https://morvanzhou.github.io/)
 
-
 ---
 ## General AI and machine learning 
 
