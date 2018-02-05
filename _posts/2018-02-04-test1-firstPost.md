@@ -12,7 +12,7 @@ Time: 2018-02-04 18:30:29
 
 
 ---
-## AI and machine learning 
+## General AI and machine learning 
 
 [Udemy - artificial intelligence A-Z; Python and machine learning](https://www.udemy.com/home/my-courses/learning/)
 
