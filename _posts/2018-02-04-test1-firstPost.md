@@ -6,15 +6,15 @@ Time: 2018-02-04 18:30:29
 ## start with a new start!
 
 ---
-## Interesdting data and python learning
+## Interesting python data
 
 [莫烦Python](https://morvanzhou.github.io/)
 
 
 ---
-## Good AI and machine learning 
+## AI and machine learning 
 
-[Udemy - artificial intelligence A-Z](https://www.udemy.com/home/my-courses/learning/)
+[Udemy - artificial intelligence A-Z; Python and machine learning](https://www.udemy.com/home/my-courses/learning/)
 
 Coursera - Ng (and landing.ai) machine learning courses
 
