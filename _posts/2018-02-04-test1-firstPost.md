@@ -3,10 +3,10 @@ title: My first Post
 Time: 2018-02-04 18:30:29
 ---
 
-## start with a new start!
+## Start with a new start!
 
 ---
-## Interesting python data
+## Interesting python/data
 
 [莫烦Python](https://morvanzhou.github.io/)
 
