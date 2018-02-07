@@ -10,11 +10,9 @@ Time: 2018-02-04 18:30:29
 
 Coursera - Ng (and landing.ai) machine learning courses
 
+[A list of materials from Leiphone](https://www.leiphone.com/news/201801/pM48Ekleds2b6j5i.html)
 
-[A list from 雷锋网](https://www.leiphone.com/news/201801/pM48Ekleds2b6j5i.html)
-
-
-[莫烦 Python](https://morvanzhou.github.io/)
+[莫烦 Python])https://morvanzhou.github.io/)
 
 ---
 You can reach me at zfq212@yahoo.com
