@@ -4,7 +4,6 @@ Time: 2018-02-04 18:30:29
 ---
 
 ---
-## Data, Python, AI, 
 
 [Udemy - artificial intelligence A-Z; Python and machine learning](https://www.udemy.com/home/my-courses/learning/)
 
