@@ -17,5 +17,8 @@ Coursera - Ng (and landing.ai) machine learning courses
 
 [莫烦Python](https://morvanzhou.github.io/)
 
+[Udemy - artificial intelligence A-Z; Python and machine learning](https://www.udemy.com/home/my-courses/learning/)
+
+
 ---
 You can reach me at zfq212@yahoo.com
