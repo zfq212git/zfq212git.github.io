@@ -8,11 +8,11 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         #Posts
-    url:          #/
+  - name:         1-Posts
+    url:          2-http
     external:     #false
-  - name:         #About me
-    url:          #/about
+  - name:         3-About me
+    url:          4-/about
     external:     #false
 # ------------ CONFIGURABLE END ------------
 
