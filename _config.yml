@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Feiqi Blog on github pages"
-description:      "try it, write something!"
-url:              
+title:            "Feiqi's blog on github pages"
+description:      "Write something!"
+url:              zfq212@yahoo.com
 signoff:          "FZ" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
