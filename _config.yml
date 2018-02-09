@@ -9,7 +9,7 @@ share:            false # Turn on twitter and facebook share buttons
 
 links:
   - name:         zfq212@yahoo.com
-    url:          2-http
+    url:          #//
     external:     #false
   - name:         About me
     url:          https://www.linkedin.com/in/feiqizhang
