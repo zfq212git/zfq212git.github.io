@@ -1,6 +1,6 @@
 ---
 title: Lessons from installing Kivy (Mac)
-Time: 2018-02-09 13:30
+time: 2018-02-09 13:30:30
 ---
 
 Encironment: Mac OSX 10.13.3
