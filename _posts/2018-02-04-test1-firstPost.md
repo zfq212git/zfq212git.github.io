@@ -1,6 +1,6 @@
 ---
 title: My first Post
-Time: 2018-02-04 18:30:29
+time: 2018-02-04 18:30:29
 ---
 
 ## Entry
