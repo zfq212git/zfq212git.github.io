@@ -13,7 +13,7 @@ links:
     external:     true
   - name:         About me
     url:          https://www.linkedin.com/in/feiqizhang
-    external:     false
+    external:     true
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
