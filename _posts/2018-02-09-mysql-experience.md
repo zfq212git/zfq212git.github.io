@@ -1,4 +1,8 @@
-The experience of trying to install and connect to a mysql
+---
+title: The experience of trying to install and connect to a mysql
+date: 2018-02-09 16:48:29
+---
+
 
 1. Tried two types of ways for installation. (1) download the dmg (for Mac) and install it like a app, (2) used homebrew to install in terminal [this site](https://www.cnblogs.com/chenmo-xpw/p/6102933.html) has good words for these two ways.
 
