@@ -17,4 +17,5 @@ Coursera - Ng (and landing.ai) machine learning courses
 
 ---
 
-You can reach me at zfq212@yahoo.com
+[markdown 简明语法](http://wowubuntu.com/markdown/#p)
+
