@@ -10,10 +10,10 @@ share:            false # Turn on twitter and facebook share buttons
 links:
   - name:         zfq212@yahoo.com
     url:          #//
-    external:     #false
+    external:     true
   - name:         About me
     url:          https://www.linkedin.com/in/feiqizhang
-    external:     #false
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
