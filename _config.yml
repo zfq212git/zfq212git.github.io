@@ -11,6 +11,9 @@ links:
   - name:         zfq212@yahoo.com
     url:          #//
     external:     true
+  - name:         My github 
+    url:          https://github.com/zfq212git
+    external:     true
   - name:         About me
     url:          https://www.linkedin.com/in/feiqizhang
     external:     true
