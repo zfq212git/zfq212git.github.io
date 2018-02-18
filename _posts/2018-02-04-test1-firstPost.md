@@ -13,6 +13,8 @@ date: 2018-02-04 18:30:29
 
 [一个很简洁清晰的Tensorflow入门介绍](http://blog.csdn.net/mmc2015/article/details/69735070)
 
+[An example machine learning](http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+
 ---
 
 ### 中高级资料
