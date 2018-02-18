@@ -3,6 +3,10 @@ title: My collections about data, ML and Python
 date: 2018-02-04 18:30:29
 ---
 
+### 目标
+1. 机器学习的跟踪，领域，限制
+2. 工程： 相关工具，实验
+
 ### 基础资料
 
 [Udemy Artificial intelligence A-Z; Python and machine learning](https://www.udemy.com/home/my-courses/learning/)
