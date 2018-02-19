@@ -30,6 +30,8 @@ date: 2018-02-04 18:30:29
 
 [A Keras (Cinese) website](http://keras-cn.readthedocs.io/en/latest/)
 
+[pytorch official website](http://pytorch.org/tutorials/)
+
 ---
 
 ### 中高级资料
