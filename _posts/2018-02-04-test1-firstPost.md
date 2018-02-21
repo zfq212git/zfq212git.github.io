@@ -11,15 +11,15 @@ date: 2018-02-04 18:30:29
 ### 基础资料
 
 1. [A list from Leiphone](https://www.leiphone.com/news/201801/pM48Ekleds2b6j5i.html)
-** very good! worth being pinned top
+** 分类，资料，建议都感觉不错
 
 
 2. [Udemy Artificial intelligence A-Z; Python and machine learning](https://www.udemy.com/home/my-courses/learning/)
-** my courses...good at thr price of $9.9 :)....
+** Udemy上的课，9美元，号称原价199，听下来觉得挺有意思的。强化学习入门了解。
 
 
 3. [莫烦 Python](https://morvanzhou.github.io/)
-** fairly good... Youku support... good for quick entry level self-teaching
+** 无意在网上发现的一个教学内容。办的很好，中文的，还贴心的在优酷上也放了。老师也比较幽默。
 
 4. [Scikit-learn official website](http://scikit-learn.org/stable/)
 
@@ -28,12 +28,12 @@ date: 2018-02-04 18:30:29
 6. [Pytorch official website](http://pytorch.org/tutorials/)
 
 
-#### 一些针对特定话题的好文章
+#### 一些有意思好文章
 
 1. [一个很简洁清晰的Tensorflow入门介绍](http://blog.csdn.net/mmc2015/article/details/69735070)
 
-2. [An example machine learning](http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
-** scikit-learn example
+2. [一个真实的数据分析/机器学习（分类）项目](http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+** 讲的比较完整，对真正的项目实践有参考意义
 
 
 
