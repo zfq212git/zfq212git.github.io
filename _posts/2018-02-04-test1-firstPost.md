@@ -41,7 +41,7 @@ date: 2018-02-04 18:30:29
 
 ### 中高级资料
 
-1. Coursera - Ng (and landing.ai) machine learning courses
+1. Coursera - 吴恩达老师的 (and landing.ai) machine learning courses
 
 ---
 
