@@ -23,5 +23,5 @@ date: 2018-02-22 16:30:00
 
 ---
 
-[testing for internal docs]({{site.url}}/archives/fav.png)
+[testing for internal docs]({{site.url}})
 
