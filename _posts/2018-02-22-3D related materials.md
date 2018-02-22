@@ -1,6 +1,10 @@
 ---
-title: My collections about data, ML and Python
-date: 2018-02-04 18:30:29
+title:  Collecting materials about ML-and-3D
+date: 2018-02-22 16:30:00
+---
+
+##this article is under continuously updated...
+
 ---
 
 [Using machine learning to extract 3D data](http://www.vbforums.com/showthread.php?859121-Using-Machine-Learning-to-Extract-3D-Data&s=918499a89cb09b52917acc9b1317d588&p=5263547#post5263547)
