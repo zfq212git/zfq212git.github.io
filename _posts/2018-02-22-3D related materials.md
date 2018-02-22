@@ -25,5 +25,5 @@ date: 2018-02-22 16:30:00
 
 [PDF - machine_learning_techniques_for_geometric_modeling](https://zfq212git.github.io/archives/machine_learning_techniques_for_geometric_modeling.pdf)
 
-[PDF - Deep Learning for Advanced 3D Printing]("https://zfq212git.github.io/archives/Deep Learning for Advanced 3D Printing.pdf")
+[PDF - Deep Learning for Advanced 3D Printing]("https://zfq212git.github.io/archives/Deep"+"Learning for Advanced 3D Printing.pdf")
 
