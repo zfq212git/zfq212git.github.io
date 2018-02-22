@@ -23,5 +23,5 @@ date: 2018-02-22 16:30:00
 
 ---
 
-[testing for internal docs](site.url)
+[testing for internal docs](https://zfq212git.github.io/archives/machine_learning_techniques_for_geometric_modeling.pdf)
 
