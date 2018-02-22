@@ -23,5 +23,5 @@ date: 2018-02-22 16:30:00
 
 ---
 
-[testing for internal docs]({{site.url}}/archives/machine_learning_techniques_for_geometric_modeling.pdf)
+[testing for internal docs]({{site.url}}/archives/fav.png)
 
