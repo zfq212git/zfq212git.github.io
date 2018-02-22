@@ -23,5 +23,5 @@ date: 2018-02-22 16:30:00
 
 ---
 
-
+[testing for internal docs]({{site.url}}/images/404.png)
 
