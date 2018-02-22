@@ -23,5 +23,5 @@ date: 2018-02-22 16:30:00
 
 ---
 
-[testing for internal docs]({{site.url}}/archives/"Deep Learning for Advanced 3D Printing.pdf")
+[testing for internal docs]("{{site.url}}/archives/Deep Learning for Advanced 3D Printing.pdf")
 
