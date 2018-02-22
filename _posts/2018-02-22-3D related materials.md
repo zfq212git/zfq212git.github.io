@@ -45,3 +45,8 @@ date: 2018-02-22 16:30:00
 
 [PDF - Deep Learning for Advanced 3D Printing](<https://zfq212git.github.io/archives/Deep Learning for Advanced 3D Printing.pdf>)
 
+[PDF - 3D ShapeNets for 2.5D Object Recognition](<https://zfq212git.github.io/archives/3D ShapeNets for 2.5D Object Recognition.pdf>)
+
+[PDF - 3D shape analysis - Berkeley student](<https://zfq212git.github.io/archives/3D shape analysis - Berkeley student.pdf>)
+
+[PDF - 3D deep learning - Burnaev_MSc_MIT_2018](<https://zfq212git.github.io/archives/3D deep learning - Burnaev_MSc_MIT_2018.pdf>)
