@@ -1,43 +1,30 @@
 ---
 title:  Collecting materials about ML-and-3D
-date: 2018-02-22 16:30:00
+date: 2018-02-23 10:30:00
 ---
 
-## this article is under continuously updated...
-
----
-
-[3D machine learning - a note from github](https://github.com/timzhang642/3D-Machine-Learning)
+## note, this article will be dynamicly updated...
 
 ---
 
-[machine learning and 3D printing](https://www.fastcodesign.com/90143244/how-machine-learning-will-unlock-the-future-of-3d-printing)
-
-[another article](http://www.digitalistmag.com/digital-supply-networks/2017/11/15/beyond-spare-parts-3d-printing-machine-learning-05526484)
-
-[another one](http://www.fabbaloo.com/blog/2016/12/27/five-ways-machine-learning-could-help-3d-printing)
-
-[another one](http://www.realclearlife.com/design/generative-design-uses-algorithms-create-thousands-options-meet-objectives/)
+> Different from 2D images that have a dominant representation as pixel arrays, 3D data has multiple popular representations, such as point cloud, mesh, volumetric field, multi-view images and parametric models.  So far, I feel parametric models get the least attention in ML.  I am not sure if this is true for both academic group and industrial group.
 
 ---
 
-[Using machine learning to extract 3D data](http://www.vbforums.com/showthread.php?859121-Using-Machine-Learning-to-Extract-3D-Data&s=918499a89cb09b52917acc9b1317d588&p=5263547#post5263547)
+[Geometric deep learning](http://geometricdeeplearning.com/)
 
-** A forum post with interesting idea and several cool youtube videos attached by another forum users, sticky-figure actions...
-
-[ML and medial 3D data](http://www.zib.de/projects/machine-learning-approaches-enhanced-shape-model-based-3d-image-segmentation)
-
-[ML in Autodesk](https://blog.a360.autodesk.com/design-graph-machine-learning-for-3d-engineering/)
-
----
-
-[Princeton professor Funkhouser](http://www.cs.princeton.edu/~funk/)
-
-**His research seems to have a few things related to 3D model and ML
-
----
+[A summary from timzhang642(github)](https://github.com/timzhang642/3D-Machine-Learning)  ** very good!  Thanks!
 
 [Stanford CS468 -m achine learning for 3D data](http://graphics.stanford.edu/courses/cs468-17-spring/schedule.html)
+
+---
+
+[Generative design in Autodesk](http://www.realclearlife.com/design/generative-design-uses-algorithms-create-thousands-options-meet-objectives/)
+
+[Design graph in Autodesk](https://blog.a360.autodesk.com/design-graph-machine-learning-for-3d-engineering/)
+
+[Using machine learning to extract 3D data](http://www.vbforums.com/showthread.php?859121-Using-Machine-Learning-to-Extract-3D-Data&s=918499a89cb09b52917acc9b1317d588&p=5263547#post5263547)
+** A forum post with interesting idea and several cool youtube videos attached by another forum users, sticky-figure actions...
 
 ---
 
@@ -47,6 +34,6 @@ date: 2018-02-22 16:30:00
 
 [PDF - 3D ShapeNets for 2.5D Object Recognition](<https://zfq212git.github.io/archives/3D ShapeNets for 2.5D Object Recognition.pdf>)
 
-[PDF - 3D shape analysis - Berkeley student](<https://zfq212git.github.io/archives/3D shape analysis - Berkeley student.pdf>)
-
 [PDF - 3D deep learning - Burnaev_MSc_MIT_2018](<https://zfq212git.github.io/archives/3D deep learning - Burnaev_MSc_MIT_2018.pdf>)
+
+[Five ways ML can help 3D printing](http://www.fabbaloo.com/blog/2016/12/27/five-ways-machine-learning-could-help-3d-printing)
