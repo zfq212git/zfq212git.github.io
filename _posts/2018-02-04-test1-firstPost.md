@@ -27,6 +27,9 @@ date: 2018-02-04 18:30:29
 
 6. [Pytorch official website](http://pytorch.org/tutorials/)
 
+7. [fast.ai](http://www.fast.ai/) ** 一个ML教学网站，号称紧密结合实际。但貌似教学视频必须Youyube
+
+8. [paperspace](https://www.paperspace.com/)  and  [crestle](https://www.crestle.com/)  ** 两个提供ML的学习环境的，比如GPU支持...
 
 #### 一些有意思好文章
 
