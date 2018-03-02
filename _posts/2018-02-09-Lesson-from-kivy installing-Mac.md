@@ -1,5 +1,5 @@
 ---
-title: Lessons from installing Kivy (Mac)
+title: A little experience from installing Kivy (Mac)
 date: 2018-02-09 13:30:30
 ---
 
