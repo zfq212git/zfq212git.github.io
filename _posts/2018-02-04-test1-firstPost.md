@@ -1,5 +1,5 @@
 ---
-title: My collections about data, ML and Python
+title: 数据，机器学习和Python
 date: 2018-02-04 18:30:29
 ---
 
