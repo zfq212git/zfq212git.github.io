@@ -24,7 +24,7 @@ date: 2018-03-02 16:30:00
 
 ---
 
-### manufacturing data
+### Manufacturing data
 1. Toolpath
 2. CNC code
 3. 3D printing data
