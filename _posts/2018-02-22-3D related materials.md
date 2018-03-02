@@ -1,9 +1,9 @@
 ---
-title:  Collecting materials about ML-and-3D
+title:  3D数据和机器学习
 date: 2018-02-23 10:30:00
 ---
 
-## note, this article will be dynamicly updated...
+## Note, this article will be dynamicly updated...
 
 ---
 
