@@ -9,3 +9,12 @@ date: 2018-03-02 15:30:00
 
 [机器学习算法工程师在做什么?](http://blog.csdn.net/shixiangyun2/article/details/51543593)
 
+[这里有一篇深度强化学习劝退文](https://www.leiphone.com/news/201802/kySbslzMWzUXIAbt.html)
+
+[别忽视深度学习的种种问题，Gary Marcus 泼冷水义不容辞](https://www.leiphone.com/news/201801/ZaAABHZZR5bDXGtN.html)
+
+[如何理解和评价机器学习中的表达能力、训练难度和泛化性能](https://www.leiphone.com/news/201803/DybiDiLOTHCNh8MQ.html)
+
+[前 Amazon 中国研发中心架构师蔡超：工程师在 AI 实践的路上，可能会踩到这些坑](https://www.leiphone.com/news/201801/CcHIAWt5KYLQI2BG.html)
+
+[有没有必要把机器学习算法自己实现一遍？](https://www.leiphone.com/news/201711/gxMBPGmwoWrRXxSj.html)
