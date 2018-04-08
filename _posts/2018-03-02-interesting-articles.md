@@ -27,7 +27,5 @@ date: 2018-04-08 10:30:00
 
 [A Brief Introduction to CAD File Formats](https://blog.grabcad.com/blog/2013/04/22/a-brief-introduction-to-cad-file-formats/)
 
-[What is the most popular file format used for sharing CAD files?](What is the most popular file format used for sharing CAD files?)
-
 [CAD data and GIS data/app](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/cad/what-is-cad-data.htm)
 
