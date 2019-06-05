@@ -8,7 +8,7 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         zfq212_2018@163.com
+  - name:         zfq212@yahoo.com
     url:          #//
     external:     true
   - name:         My github 
